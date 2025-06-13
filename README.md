@@ -4,7 +4,7 @@
 
 ## 🧠 DevOps Engineer | AWS Tamer | Terminal Overlord
 
-Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terraform-wrangling DevOps Engineer who talks to EC2 instances like they're sentient. I break prod just enough to keep life exciting and automate everything else so I can take naps responsibly. 😌☕️
+Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terraform-wrangling DevOps Engineer who talks to EC2 instances like they're sentient. I break prod just enough to keep life exciting and automate everything else so I can take naps responsibly..😌☕️
 
 ---
 
