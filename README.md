@@ -1,6 +1,6 @@
-# 👾 Kemi “The Debug Whisperer” A.
+# 👾 Kemi A.
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kemi%20the%20DevOps%20Whisperer&fontSize=35&fontAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kemi%20the%20Debug%20Whisperer&fontSize=35&fontAlign=50&animation=fadeIn)
 
 ## 🧠 DevOps Engineer | AWS Tamer | Terminal Overlord
 
