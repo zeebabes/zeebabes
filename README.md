@@ -28,11 +28,13 @@ Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terra
 ### 📦 Featured Projects (a.k.a. “stuff that actually works”)
 
 | Project | Description |
-|--------|-------------|------|
-| 🛍️ Java E-Commerce Backend | CI/CD with Jenkins • Docker • Terraform • EKS |
-| 💬 Node.js Chat App | EC2 • Nginx • Socket.IO • Jenkins Pipeline |
-| 🗂️ Lambda File Processor | Triggered by S3 • Terraform • Jenkins Deployed |
-| 📊 Flask Monitoring Dashboard | Gunicorn • Nginx • EC2 • Ansible |
+|--------|-------------|
+| 🛍️ **Java E-Commerce Backend** | CI/CD with Jenkins • Docker • Terraform • EKS |
+| 💬 **Node.js Chat App** | EC2 • Nginx • Socket.IO • Jenkins Pipeline |
+| 🗂️ **Lambda File Processor** | Triggered by S3 • Terraform • Jenkins Deployed |
+| 📊 **Flask Monitoring Dashboard** | Gunicorn • Nginx • EC2 • Ansible |
+
+🔍 Explore them at: [https://github.com/zeebabes?tab=repositories](https://github.com/zeebabes?tab=repositories)
 
 ---
 
@@ -48,11 +50,10 @@ Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terra
 
 ### 🤡 Fun Facts
 
-- I once `chmod 777` just to feel alive 😵‍💫
-- Jenkins is my therapist (but he’s flaky sometimes)
-- I automate like it's my coping mechanism
-- My EC2 instances fear me… and rightly so
-
+- I once `chmod 777` just to feel alive 😵‍💫  
+- Jenkins is my therapist (but he’s flaky sometimes)  
+- I automate like it's my coping mechanism  
+- My EC2 instances fear me… and rightly so  
 
 ---
 
