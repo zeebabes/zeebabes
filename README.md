@@ -33,6 +33,8 @@ Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terra
 | 💬 **Node.js Chat App** | EC2 • Nginx • Socket.IO • Jenkins Pipeline |
 | 🗂️ **Lambda File Processor** | Triggered by S3 • Terraform • Jenkins Deployed |
 | 📊 **Flask Monitoring Dashboard** | Gunicorn • Nginx • EC2 • Ansible |
+| ⚙️ **GitOps React + Java App** | EKS • ArgoCD • Helm • Prometheus & Grafana • GitHub Actions |
+| 🔧 **Java Web Project 1** | Spring Boot • Docker • Jenkins CI/CD • ALB Ingress • Terraform EKS |
 
 🔍 Explore them at: [https://github.com/zeebabes?tab=repositories](https://github.com/zeebabes?tab=repositories)
 
