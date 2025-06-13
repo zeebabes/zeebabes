@@ -53,10 +53,6 @@ Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terra
 - I automate like it's my coping mechanism
 - My EC2 instances fear me… and rightly so
 
----
-
-### 🛰️ Let’s Connect
-
 
 ---
 
