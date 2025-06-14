@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kemi%20the%20Debug%20Whisperer&fontSize=35&fontAlign=50&animation=fadeIn)
 
-## 🧠 DevOps Engineer | AWS Tamer | Terminal Overlord
+## 🧠 DevOps Engineer | AWS Tamer | Terminal Queen
 
 Hey there, curious coder! I’m Kemi — a caffeine-fueled, YAML-wielding, Terraform-wrangling DevOps Engineer who talks to EC2 instances like they're sentient. I break prod just enough to keep life exciting and automate everything else so I can take naps responsibly..😌☕️
 
